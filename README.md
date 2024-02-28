@@ -11,7 +11,7 @@
  <h3 style="text-align:center; color:orange"><i>📱Programming Languages, Frameworks and Library</i></h3>
 
 <div style="display:flex">
-<img style="width: 3,5rem;" src="image-1.png"/>
+<img style="width: 5rem;" src="image-1.png"/>
 <img style="width: 4rem;" src="css-3.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="js.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="bootstrap.png"/>
