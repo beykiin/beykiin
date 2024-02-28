@@ -1,6 +1,6 @@
 <h2 style="text-align:center; color:orange"><i>🏁 ABOUT ME!</i></h2>
 <i>
-<p>🥳 Hello! I'm Yasin Beken, a Full Stack Web Developer and Unity Game Developer.</p>
+<p>🥳 Hello! I'm Yasin Beken, a Full Stack Web Developer and Game Developer with Unity.</p>
 <hr>
  <p>📘I have received Full Stack Web Developer training at Neos Software Academy and I am currently undergoing Unity Game Developer training at the Google-supported Game and Application Academy.</p>
  <p>🔎 I have 6 months of basic experience with C++. I develop web applications using Python, React.js, HTML, CSS, Django, and JavaScript, and games using C#.</p>
