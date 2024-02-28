@@ -8,7 +8,7 @@
  <p>🤩 I am always open to new ideas and enjoy creating creative and innovative solutions. I have a passion for technology and games. Feel free to reach out to me to collaborate on exciting projects!</p>
 </i>
  <hr>
- <h3 style="text-align:center; color:orange"><i>📱Programming Languages, Frameworks and Library</i></h3>
+ <h3 style="text-align:center; color:orange"><i>📱Programming Languages, Frameworks and Tools</i></h3>
 
 <div style="display:flex">
 <img style="width: 5rem;" src="image-1.png"/>
