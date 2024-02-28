@@ -20,7 +20,7 @@
 <img style="width: 4rem; margin-left: 0.5rem;" src="python.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="django-icon-0.jpg"/>
 <div style="text-align:center;"><img style="width: 4rem; margin-left: 0.5rem;" src="React.png"/>
-<img style="width: 3.5rem; margin-left: 0.5rem;" src="logo.png"/></div>
+<img style="width: 2rem; margin-left: 0.5rem;" src="logo.png"/></div>
 <hr style="margin-bottom:2rem;">
 
 <h3 style="text-align:center; color:orange"><i>Contact Me!</i></h3>
