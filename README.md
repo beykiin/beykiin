@@ -21,7 +21,7 @@
 <img style="width: 4rem; margin-left: 0.5rem;" src="python.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="django-icon-0.jpg"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="React.png"/>
-<img style="width: 2rem; margin-left: 0.5rem;" src="logo.png"/>
+<img style="width: 3.5rem; margin-left: 0.5rem;" src="logo.png"/>
 </div>
 <hr style="margin-bottom:2rem;">
 
