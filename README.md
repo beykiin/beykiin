@@ -32,5 +32,5 @@
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
 
+📩 yasinbeken16@gmail.com
 
-[![E-Mail](https://img.shields.io/badge/EMail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/yasin-beken-51aa0427b/)
