@@ -11,20 +11,20 @@
  <h3 style="text-align:center; color:orange"><i>📱Programming Languages, Frameworks and Tools</i></h3>
 
 <div style="display:flex">
-<img style="width: 5rem;" src="image-1.png"/>
-<img style="width: 4rem;" src="css-3.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="js.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="bootstrap.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="c-.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="c-sharp.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="sass.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="python.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="django-icon-0.jpg"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="React.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="logo.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="logogi.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="sqlite3.png"/>
-<img style="width: 4rem; margin-left: 0.5rem;" src="jquerry.png"/>
+<img style="width: 4rem;" src="image-1.png"/>
+<img style="width: 3rem;" src="css-3.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="js.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="bootstrap.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="c-.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="c-sharp.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="sass.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="python.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="django-icon-0.jpg"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="React.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="logo.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="logogi.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="sqlite3.png"/>
+<img style="width: 3rem; margin-left: 0.5rem;" src="jquerry.png"/>
 </div>
 <hr style="margin-bottom:2rem;">
 
