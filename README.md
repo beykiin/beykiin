@@ -10,6 +10,7 @@
  <hr>
  <h3 style="text-align:center; color:orange"><i>📱Programming Languages, Frameworks and Library</i></h3>
 
+<div style="display:flex">
 <img style="width: 5rem;" src="image-1.png"/>
 <img style="width: 4rem;" src="css-3.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="js.png"/>
@@ -19,8 +20,9 @@
 <img style="width: 4rem; margin-left: 0.5rem;" src="sass.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="python.png"/>
 <img style="width: 4rem; margin-left: 0.5rem;" src="django-icon-0.jpg"/>
-<div style="text-align:center;"><img style="width: 4rem; margin-left: 0.5rem;" src="React.png"/>
-<img style="width: 2rem; margin-left: 0.5rem;" src="logo.png"/></div>
+<img style="width: 4rem; margin-left: 0.5rem;" src="React.png"/>
+<img style="width: 2rem; margin-left: 0.5rem;" src="logo.png"/>
+</div>
 <hr style="margin-bottom:2rem;">
 
 <h3 style="text-align:center; color:orange"><i>Contact Me!</i></h3>
