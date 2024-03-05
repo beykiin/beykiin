@@ -28,6 +28,7 @@
 </div>
 
 <hr style="margin-bottom:2rem;">
+<h3 style="text-align:center; color:orange"><i>💹Statistic</i></h3>
 <img style="width: 50rem; margin-left: 0.5rem;" src="stat.png"/>
 <hr style="margin-bottom:2rem;">
 
