@@ -26,7 +26,9 @@
 <img style="width: 3rem; margin-left: 0.5rem;" src="sqlite3.png"/>
 <img style="width: 3rem; margin-left: 0.5rem;" src="jquerry.png"/>
 </div>
+
 <hr style="margin-bottom:2rem;">
+<img style="width: 3rem; margin-left: 0.5rem;" src="stat.png"/>
 
 <h3 style="text-align:center; color:orange"><i>Contact Me!</i></h3>
 
